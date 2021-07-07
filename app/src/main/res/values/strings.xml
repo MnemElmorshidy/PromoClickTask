@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Promo Click Task</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="sponsors">Sponsors</string>
+    <string name="vendors">Vendors</string>
+    <string name="hot_discount">Hot Discount</string>
+    <string name="hi">Hi Acacia</string>
+    <string name="find">Find Your Favourite Items</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="desc">Description</string>
+    <string name="reviews">Reviews</string>
+    <string name="size">Size</string>
+    <string name="shop">shop now</string>
+    <string name="offer">20 % off in our All Products</string>
+    <string name="search">Search.. </string>
+
+</resources>
